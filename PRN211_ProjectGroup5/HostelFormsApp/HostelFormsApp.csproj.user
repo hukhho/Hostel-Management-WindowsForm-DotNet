@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CallBillForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ContractFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ContractDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerDetailsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EquipmentDetailsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EquipmentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InvoiceDetailsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InvoiceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoomDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoomForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ServiceDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ServiceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UsedServiceDetailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UsedServiceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
